@@ -2,4 +2,4 @@
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
-Solving equations a*x = b (mod n) where x is non-negative integer.
+Solving equations a*x = b (mod n) where x is non-negative integer (C++, Windows).

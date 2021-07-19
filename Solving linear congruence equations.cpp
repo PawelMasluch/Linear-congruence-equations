@@ -9,16 +9,9 @@
 
 
 typedef long long LL;
-typedef std::pair <LL, LL> PLL;
-typedef std::vector < PLL > VPLL;
-typedef std::map < LL, LL > MLL;
 
 
 #define REP(i,a,b) for(int i=a; i<=b; ++i)
-#define PB push_back
-#define MP std::make_pair
-#define remainder first
-#define exponent second
 
 
 // a*b (mod m).
